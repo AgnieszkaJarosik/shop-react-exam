@@ -1,0 +1,11 @@
+.catalog {
+  display: flex;
+}
+
+.columnLeft {
+  width: 25%;
+}
+
+.columnRight {
+  width: 75%;
+}

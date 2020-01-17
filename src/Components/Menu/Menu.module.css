@@ -1,0 +1,25 @@
+.navbar {
+  position: relative;
+  min-height: 50px;
+  background-color: #0b102b;
+}
+
+.nav {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  list-style-type: none;
+}
+
+.nav > li {
+  float: left;
+}
+
+.nav > li > a {
+  font-size: 16px;
+  font-weight: 100;
+  padding: 15px 35px;
+  color: #fff;
+  display: block;
+  text-decoration: none;
+}

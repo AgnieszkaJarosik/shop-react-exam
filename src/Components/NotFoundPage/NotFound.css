@@ -1,0 +1,13 @@
+.notFound {
+  font-size: 100px;
+  width: 200px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 200px;
+}
+
+.description {
+  font-size: 20px;
+  margin-top: 50px;
+  margin-left: 30px;
+}
